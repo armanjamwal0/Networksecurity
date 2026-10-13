@@ -1,0 +1,1 @@
+[ 2026-10-13 08:17:23,501 ] 13 root - INFO - Error occured in python script name [/home/arman/ml-course/Ml-Projects/Networksecurity/push_data.py] line number [32] error msg [[Errno 2] No such file or directory: 'Netwrok_Data/phisingData.cs']  
