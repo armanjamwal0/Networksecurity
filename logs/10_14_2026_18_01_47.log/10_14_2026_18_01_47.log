@@ -1,0 +1,6 @@
+[ 2026-10-14 18:01:49,233 ] 15 root - INFO - Initiate the data ingestion 
+[ 2026-10-14 18:01:49,298 ] 96 pymongo.serverSelection - INFO - {"message": "Waiting for suitable server to become available", "selector": "Primary()", "operation": "find", "topologyDescription": "<TopologyDescription id: 6acf7635edd73603a8bf059b, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-glxidzy-shard-00-00.gq09xuh.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-glxidzy-shard-00-01.gq09xuh.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-glxidzy-shard-00-02.gq09xuh.mongodb.net', 27017) server_type: Unknown, rtt: None>]>", "clientId": {"$oid": "6acf7635edd73603a8bf059b"}, "remainingTimeMS": 29} 
+[ 2026-10-14 18:02:04,960 ] 65 root - INFO - Performed train test split on the dataframe 
+[ 2026-10-14 18:02:04,960 ] 66 root - INFO - Exited split_data_as_train_test method of Data_Ingestion class 
+[ 2026-10-14 18:02:04,960 ] 73 root - INFO - Exporting train and test file path Artifacts/10_14_2026_18_01_47/data_ingestion/ingested 
+[ 2026-10-14 18:02:05,145 ] 82 root - INFO - Exported train and test file path  
